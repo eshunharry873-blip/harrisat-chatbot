@@ -1,0 +1,1 @@
+"""Harrisat Backend Application"""
